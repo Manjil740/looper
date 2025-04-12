@@ -1,0 +1,4 @@
+so this code can certainly cause alot of problem thats obvious
+this code will first give random string output which will occupie the RAM very fast causing it to lag 
+after the the certain percentage of RAM is occupied it will automatically shutdown the device 
+NOTE: this code is still incomplete so updates will come in this improving more things in it
